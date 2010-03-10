@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'caretaker_accounts'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_caretakeraccounts_types">Account Types</label>
+			<label index="tx_caretakeraccounts_types.name">Name</label>
+			<label index="tx_caretakeraccounts_types.url_pattern">URL-Pattern</label>
+			<label index="tx_caretakeraccounts_types.type_icon">Icon</label>
+			<label index="tx_caretakeraccounts_accounts">Accounts</label>
+			<label index="tx_caretakeraccounts_accounts.uid_node">Node UID</label>
+			<label index="tx_caretakeraccounts_accounts.node_table">Node Table</label>
+			<label index="tx_caretakeraccounts_accounts.username">Username</label>
+			<label index="tx_caretakeraccounts_accounts.password">Password</label>
+			<label index="tx_caretakeraccounts_accounts.url">URL (default: InstanceURL)</label>
+			<label index="tx_caretakeraccounts_accounts.hostname">Hostname (default: Instance-Hostname)</label>
+			<label index="tx_caretakeraccounts_accounts.type">Type</label>
+			<label index="tx_caretaker_instance.tx_caretakeraccounts_accounts">Accounts</label>
+			<label index="tx_caretaker_instancegroup.tx_caretakeraccounts_accounts">Accounts</label>
+		</languageKey>
+	</data>
+</T3locallang>
